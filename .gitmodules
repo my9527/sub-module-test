@@ -1,0 +1,8 @@
+[submodule "subs/aaaa"]
+	path = subs/aaaa
+	url = git@github.com:my9527/aaaa.git
+	branch = master
+[submodule "subs/strategy"]
+	path = subs/strategy
+	url = git@github.com:my9527/strategy.git
+	branch = master
